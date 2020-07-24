@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/marcelo.devlab/)](https://www.instagram.com/marcelo.devlab/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5594992587603&text=Olá!)](https://api.whatsapp.com/send?phone=5594992587603&text=Olá!)
 
-## Olá 👋, sejam bem-vidas!
+## Olá 👋, sejam bem-vidos!
 
 ### Meu nome é Marcelo Lopes, estou apaixonado por programação e pronto para decolar! 🚀
 
