@@ -15,7 +15,7 @@
 - 🏗 Tecnologias: Node.js, ReactJS e React Native.
 - 😍🔥😂🤔⚛✨ Fã de emojis!
 
-### 💻 Bora codar
+### 💻 Bora codar 💻
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/idwHsrrEkqQws34iPk/giphy.gif">
